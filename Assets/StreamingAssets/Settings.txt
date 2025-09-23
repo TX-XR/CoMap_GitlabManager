@@ -1,0 +1,7 @@
+GitLabUrl=https://gitlab.ethz.ch
+OwnerAccessToken=Pbe4i8TeCyzQAwxyU8x3
+OwnerBranchName=OwnerBranch
+OwnerUserName=xiaoti
+CollaboratorAccessToken=EiSU1e4P8HczR3Vsutyx
+CollaboratorBranchName=CollaboratorBranch
+CollaboratorUserName=mmizuki
